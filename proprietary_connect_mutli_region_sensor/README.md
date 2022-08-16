@@ -1,4 +1,9 @@
 # Connect Multi-Region Sensor #
+![Type badge](https://img.shields.io/badge/Type-Application%20Examples-green)
+![Technology badge](https://img.shields.io/badge/Technology-Connect-green)
+![License badge](https://img.shields.io/badge/License-Zlib-green)
+![SDK badge](https://img.shields.io/badge/SDK-v2.7.0-green)
+![GCC badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/proprietary_connect/proprietary_connect_mutli_region_sensor_gcc.json)
 
 ## Summary ##
 
