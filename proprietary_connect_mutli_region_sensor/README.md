@@ -4,6 +4,8 @@
 ![License badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/proprietary_connect/proprietary_connect_mutli_region_sensor_common.json&label=License&query=license&color=green)
 ![SDK badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/proprietary_connect/proprietary_connect_mutli_region_sensor_common.json&label=SDK&query=sdk&color=green)
 ![Build badge](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/proprietary_connect/proprietary_connect_mutli_region_sensor_build_status.json)
+![Flash badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/proprietary_connect/proprietary_connect_mutli_region_sensor_common.json&label=Flash&query=flash&color=blue)
+![RAM badge](https://img.shields.io/badge/dynamic/json?url=https://raw.githubusercontent.com/SiliconLabs/application_examples_ci/master/proprietary_connect/proprietary_connect_mutli_region_sensor_common.json&label=RAM&query=ram&color=blue)
 
 ## Summary ##
 
